@@ -1,1 +1,2 @@
 my file
+editing this to check hide is working using stash command
