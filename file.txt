@@ -1,3 +1,5 @@
 2 to 5pm practise
 check hide (stash cmd)
 doing edit in github to verify
+
+checking pull conflict typing in github
