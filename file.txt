@@ -1,2 +1,9 @@
 2 to 5pm practise
+<<<<<<< HEAD
 check conflicts in 2 to 5 practice
+=======
+check hide (stash cmd)
+doing edit in github to verify
+
+checking pull conflict typing in github
+>>>>>>> refs/remotes/origin/master
