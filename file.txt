@@ -1,3 +1,2 @@
 2 to 5pm practise
-check hide (stash cmd)
-doing edit in github to verify
+check conflicts in 2 to 5 practice
